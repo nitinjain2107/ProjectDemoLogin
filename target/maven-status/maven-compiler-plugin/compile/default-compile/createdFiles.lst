@@ -1,0 +1,6 @@
+com/demo/pageObjects/DealsPage.class
+com/demo/pageObjects/HomePage.class
+com/demo/pageObjects/SignupPage.class
+com/demo/utilities/UtilClass.class
+com/demo/pageObjects/LoginPage.class
+com/demo/baseclass/TestBase.class

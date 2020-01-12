@@ -1,0 +1,4 @@
+url = http://automationpractice.com/index.php?controller=authentication&back=my-account
+username = nitinjain2107@gmail.com
+password = nitin2107
+browser = chrome

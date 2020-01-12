@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.demo.testCase.LoginPageTest" duration-ms="18678" started-at="2020-01-11T20:45:29Z" finished-at="2020-01-11T20:45:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="18678" started-at="2020-01-11T20:45:29Z" finished-at="2020-01-11T20:45:47Z">
+      <class name="com.demo.testCase.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.testCase.LoginPageTest@73f792cf]" name="setUp" is-config="true" duration-ms="8740" started-at="2020-01-12T02:15:29Z" finished-at="2020-01-12T02:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.demo.testCase.LoginPageTest@73f792cf]" name="LoginPageTitleTest" duration-ms="11" started-at="2020-01-12T02:15:38Z" finished-at="2020-01-12T02:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testCase.LoginPageTest@73f792cf]" name="teardown" is-config="true" duration-ms="96" started-at="2020-01-12T02:15:38Z" finished-at="2020-01-12T02:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.testCase.LoginPageTest@73f792cf]" name="setUp" is-config="true" duration-ms="7284" started-at="2020-01-12T02:15:38Z" finished-at="2020-01-12T02:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:2, instance:com.demo.testCase.LoginPageTest@73f792cf]" name="LoginTest" duration-ms="2412" started-at="2020-01-12T02:15:45Z" finished-at="2020-01-12T02:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testCase.LoginPageTest@73f792cf]" name="teardown" is-config="true" duration-ms="113" started-at="2020-01-12T02:15:47Z" finished-at="2020-01-12T02:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demo.testCase.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.demo.testCase.LoginPageTest -->
+</testng-results>

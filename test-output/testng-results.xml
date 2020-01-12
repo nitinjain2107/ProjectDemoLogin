@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Store login Demo Suite" duration-ms="19629" started-at="2020-01-12T11:10:26Z" finished-at="2020-01-12T11:10:45Z">
+    <groups>
+    </groups>
+    <test name="Login tests" duration-ms="19629" started-at="2020-01-12T11:10:26Z" finished-at="2020-01-12T11:10:45Z">
+      <class name="com.demo.testCase.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.testCase.LoginPageTest@34ce8af7]" name="setUp" is-config="true" duration-ms="9530" started-at="2020-01-12T16:40:26Z" finished-at="2020-01-12T16:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.demo.testCase.LoginPageTest@34ce8af7]" name="LoginPageTitleTest" duration-ms="15" started-at="2020-01-12T16:40:35Z" finished-at="2020-01-12T16:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testCase.LoginPageTest@34ce8af7]" name="teardown" is-config="true" duration-ms="150" started-at="2020-01-12T16:40:35Z" finished-at="2020-01-12T16:40:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.testCase.LoginPageTest@34ce8af7]" name="setUp" is-config="true" duration-ms="7488" started-at="2020-01-12T16:40:36Z" finished-at="2020-01-12T16:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:2, instance:com.demo.testCase.LoginPageTest@34ce8af7]" name="LoginTest" duration-ms="2293" started-at="2020-01-12T16:40:43Z" finished-at="2020-01-12T16:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testCase.LoginPageTest@34ce8af7]" name="teardown" is-config="true" duration-ms="130" started-at="2020-01-12T16:40:45Z" finished-at="2020-01-12T16:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demo.testCase.LoginPageTest -->
+    </test> <!-- Login tests -->
+  </suite> <!-- My Store login Demo Suite -->
+</testng-results>
